@@ -3,31 +3,33 @@
 Demo -----> # https://mouse-dictionary.netlify.com/
 
 
-# _Build Dictionary_
+# _About TechWords_
 
-#### _Java application project built as a code review of competencies including using an instance of one class in the method of another class, Spark routes processing GET and POST requests/responses, creating objects from a custom class with a custom constructor, and creating & organizing object unit tests separate from integration tests, 04/29/2016_
+#### _TechWords is a free online dictionary of computer and technology terms. The original TechWords site will launch in 2021. The goal of TechWords is that create a simple-online learning environment with easy-to-understand definitions of technical words. TechWords is updated daily to keep pace with the fast-changing tech landscape. Also, TechWords include quizzes, picture cards and Turkish meaning of most technical words to make learning easier._
 
-#### By _**LaTaevia**_
-
-## _Description_
-
-_This a static webpage assigned as an end-of-week project for my seventh week at Epicodus. It functions as a website that lets users create a dictionary by adding a word, and when viewing a word, be able to add one or more definitions. Users can also lists out all the words, and let  click on them to view all of their definitions._
 
 
 
 ## _Demo_
 
-* `gradle run`
+
 * Visit app at [http://localhost:4567](http://localhost:4567).
 
 
-## _Technologies Used_
+```
+git clone https://github.com/kubernetes/website.git
+cd website
+```
+
+
+### _Author_
+
+### _Technologies Used_
 
 * _HTML_
 * _CSS_
 * _Bootstrap_
-* _Java_
-* _Gradle_
+* _Javascript_
 
 
 ### _License_
