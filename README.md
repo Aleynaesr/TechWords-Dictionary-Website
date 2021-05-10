@@ -9,10 +9,6 @@
 
 #### _TechWords is a free online dictionary of computer and technology terms. The original TechWords site will launch in 2021. The goal of TechWords is that create a simple-online learning environment with easy-to-understand definitions of technical words. TechWords is updated daily to keep pace with the fast-changing tech landscape. Also, TechWords include quizzes, picture cards and Turkish meaning of technical words to make learning easier._
 
-```
-Using of TechWords Website
-```
-
 ## _Sections_
 
 ```
