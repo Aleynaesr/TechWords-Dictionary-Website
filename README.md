@@ -1,5 +1,7 @@
 # TechWords-Dictionary
 
+Demo -----> # https://mouse-dictionary.netlify.com/
+
 
 # _Build Dictionary_
 
@@ -7,25 +9,19 @@
 
 #### By _**LaTaevia**_
 
-## Description
+## _Description_
 
 _This a static webpage assigned as an end-of-week project for my seventh week at Epicodus. It functions as a website that lets users create a dictionary by adding a word, and when viewing a word, be able to add one or more definitions. Users can also lists out all the words, and let  click on them to view all of their definitions._
 
 
 
-
-
-
-
-
-
-## Demo
+## _Demo_
 
 * `gradle run`
 * Visit app at [http://localhost:4567](http://localhost:4567).
 
 
-## Technologies Used
+## _Technologies Used_
 
 * _HTML_
 * _CSS_
@@ -34,7 +30,7 @@ _This a static webpage assigned as an end-of-week project for my seventh week at
 * _Gradle_
 
 
-### License
+### _License_
 
 *This software is licensed under the MIT license*
 
