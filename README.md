@@ -22,24 +22,32 @@ There are four main web pages and also there is three other sections in the webs
 
 ![](Gifs/AnimationDictionary.gif)
 
+</br>
+
 
  * _Tech Cards_ 
 
 ##### _The purpose of this web page is to teach the user with the visuals of computer and internet words. Thus, the user will be able to easily comprehend the technical terms learned from the dictionary section. The design of this page focuses on picture cards. Each word is in a block of cards with its picture and can be scrolled back and forth._
 
-```
-picture
-```
+![](Gifs/AnimationTechCards.gif)
 
  * _Random Words_  
  
 ##### _In this section, the user encounters a random word generator like a search engine. Every time the user clicks on the 'generate' button, a new computer and internet term is generated. Here, the user learns words in both Turkish and English with their meanings and abbreviations. Also on this page there is a make your list section for the user. By saving the word learned from the random word generator, the user is prevented from forgetting the terms and creates his own word list._
 
+![](Gifs/AnimationRandomWords.gif)
 
  * _Quizzes_ 
 
 ##### _The Quizzes page is there to practice for the tech words the user have learned. There are 3 options for the user. These are self study quiz, ture / false quiz and guess the word pages designed as block card. It is possible to switch from each quiz page to the next quiz, and each quiz shows the correct and incorrect number and calculates the user's score._
 
+![](Gifs/AnimationQuiz.gif)
+
+ ![](Gifs/AnimationQuiz1.gif)
+ 
+ ![](Gifs/AnimationQuiz2.gif)
+ 
+ ![](Gifs/AnimationQuiz3.gif)
 
  * _About_ 
 
@@ -51,6 +59,8 @@ picture
  * _Privacy Policy_
 
 ##### _The Privacy Policy page, designed in the form of a book, exists to inform the user about data collection and cookies._
+
+![](Gifs/AnimationPages.gif)
 
 ## _Author_ </b>
 #### _Aleyna Eser is the author of all TechWords definitions._
