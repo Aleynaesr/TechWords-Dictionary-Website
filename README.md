@@ -31,11 +31,16 @@ There are four main web pages and also there is three other sections in the webs
 
 ![](Gifs/AnimationTechCards.gif)
 
+</br>
+
+
  * _Random Words_  
  
 ##### _In this section, the user encounters a random word generator like a search engine. Every time the user clicks on the 'generate' button, a new computer and internet term is generated. Here, the user learns words in both Turkish and English with their meanings and abbreviations. Also on this page there is a make your list section for the user. By saving the word learned from the random word generator, the user is prevented from forgetting the terms and creates his own word list._
 
 ![](Gifs/AnimationRandomWords.gif)
+
+</br>
 
  * _Quizzes_ 
 
@@ -43,11 +48,19 @@ There are four main web pages and also there is three other sections in the webs
 
 ![](Gifs/AnimationQuiz.gif)
 
+</br>
+
  ![](Gifs/AnimationQuiz1.gif)
+ 
+ </br>
  
  ![](Gifs/AnimationQuiz2.gif)
  
+ </br>
+ 
  ![](Gifs/AnimationQuiz3.gif)
+ 
+ </br>
 
  * _About_ 
 
@@ -61,6 +74,8 @@ There are four main web pages and also there is three other sections in the webs
 ##### _The Privacy Policy page, designed in the form of a book, exists to inform the user about data collection and cookies._
 
 ![](Gifs/AnimationPages.gif)
+
+</br>
 
 ## _Author_ </b>
 #### _Aleyna Eser is the author of all TechWords definitions._
