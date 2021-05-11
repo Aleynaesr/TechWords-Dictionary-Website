@@ -20,7 +20,7 @@ There are four main web pages and also there is three other sections in the webs
 ##### _The dictionary section is a home page. It has a simple design to focus on learning. Also, it has some functions such as alphabetical sorting of words and descriptions, word search in dictionary, displaying as many words as you want on the screen._
 
 
-![](AnimationDictionary.gif)
+![](Gifs/AnimationDictionary.gif)
 
 
  * _Tech Cards_ 
