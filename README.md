@@ -77,6 +77,12 @@ There are four main web pages and also there is three other sections in the webs
 
 </br>
 
+ * _Footer_
+
+##### _The footer bar includes a sub menu, copyright section and social media accounts._
+
+![](Gifs/Footer.png)
+
 ## _Author_ </b>
 #### _Aleyna Eser is the author of all TechWords definitions._
 
