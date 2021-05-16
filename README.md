@@ -1,7 +1,7 @@
 # _TechWords-Dictionary_
  
 
-## _Visit the website demo at_ -----> https://mouse-dictionary.netlify.com/
+## _Visit the website demo at_ -----> https://aleynaesr.github.io/Tech-Words/
 
 </br>
 
