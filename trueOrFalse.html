@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<html>
+<head> 
+  <!-- Meta tags, tittle, favicon, links and scripts-->
+  <meta charset="UTF-8" />
+  <meta name="description" content="The free Tech Words Dictionary contains over 200 technical terms with easy-to-understand descriptions.">
+  <meta name="keywords" content="tech, words, computer, dictionary, quizzes, technical, terms">
+  <meta name="author" content="Aleyna Eser">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+  <title>Tech Words | True or False Quiz</title>
+  <link rel="icon" type="image/png" sizes="16x16"  href="image/favicon.png">
+  
+  <link rel="stylesheet" type="text/css" href="design.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+  
+<link
+  rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+/>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+
+<body id="bodyColor">
+
+    <!--  Top Menu and logo -->
+    <div id="header">
+        <a href="index.html" id="logo">TechWords</a>
+        <ul id="menu">
+          <li><a href="index.html"><span>DICTIONARY</span></a></li>
+          <li><a href="cards.html"><span>TECH CARDS</span></a></li>
+          <li><a href="randomWords.html"><span>RANDOM WORDS</span></a></li>
+          <li><a href="quizPage.html"><span>QUIZZES</span></a></li>
+        </ul>
+      </div>
+
+   <!-- Quiz Block -->
+      <div id="blockQuiz"> 
+        <div id="containerQuiz">  
+
+   <!-- Quiz Header -->
+            <div id="head">                       			
+                    <h1> True or False Quiz</h1>
+                    <p> <b>- Test Your Knowledge -</b> </p>
+                   <b> <p>Score: <span id="score"> 0 </span></p></b>                   
+            </div>
+
+  <!-- Questions Block -->
+           <section>
+              <div style= "width:100%; height: 500px; overflow-x: hidden; overflow-y: scroll;"> 
+ 
+                <div class="question">
+                  <p>1. The Language that the computer can understand is called Machine Language.</p>
+                  <label>
+                  <input type="radio" name="answers[1]" value="A"  data-correct>
+                  True
+                  </label>
+                
+                  <label>
+                    <input type="radio" name="answers[1]" value="B">
+                    False
+                  </label>
+                </div>   
+                    
+                  <div class="question">
+                      <p>2. IPv6 Internet Protocol address is represented as eight groups of four Octal digits.</p>
+                      <label>
+                        <input type="radio" name="answers[2]" value="A">
+                        True
+                      </label>
+                    
+                      <label>
+                        <input type="radio" name="answers[2]" value="B" data-correct>
+                        False
+                      </label>
+                    
+                    </div>
+
+                 <div class="question">
+                      <p>3. CPU stands for Central Performance Unit.</p>
+                      <label>
+                      <input type="radio" name="answers[3]" value="A">
+                      True
+                      </label>
+                    
+                      <label>
+                        <input type="radio" name="answers[3]" value="B" data-correct>
+                        False
+                      </label>
+                    </div>
+
+                    <div class="question">
+                      <p>4. An impact printer does a better job printing different fonts than a non impact printer and is quieter.</p>
+                      <label>
+                      <input type="radio" name="answers[4]" value="A">
+                      True
+                      </label>
+                    
+                      <label>
+                        <input type="radio" name="answers[4]" value="B" data-correct>
+                       False
+                      </label>
+                    </div>
+
+                    <div class="question">
+                      <p>5. Worms and trojan horses are easily detected and eliminated by antivirus software.</p>
+                      <label>
+                      <input type="radio" name="answers[5]" value="A"  data-correct>
+                      True
+                      </label>
+                    
+                      <label>
+                        <input type="radio" name="answers[5]" value="B">
+                       False
+                      </label>
+                    </div>
+                  
+     <!-- Button Blocks -->                 
+              <input id="quiz-submit" type="submit" value="Check Answers"/>	
+                  </br>
+                </br> </br> 
+
+                  <div id="nextQuiz">
+                  <a href="quizGame.html"> <input type="submit" value="Next Quiz -----> Picture Guessing Game"/> </a>			   
+                  </div>
+
+                  <div id="beforeQuiz">
+                	<a href="multipleChoice.html"> <input type="submit" value="Self Study Quiz <----- Before Quiz"/> </a>			   
+                  </div>
+
+              </section>
+            </div>  <!-- Scroll for question block --> 
+          </div>  <!-- Container -->  
+        </div>  <!-- Quiz Block -->  
+
+    
+      <!-- Footer bar -->
+      <footer class="footer-bar">
+        
+        <!-- Social Media -->
+        <div class="footer-right">
+        <a href="https://github.com/Aleynaesr"><i class="fa fa-github"></i></a>
+        <a href="https://www.linkedin.com/in/aleyna-eser-818043185/"><i class="fa fa-linkedin"></i></a>
+        </div>
+        
+        <!-- Sub Menu -->
+        <div class="footer-left">
+        <p class="footer-links">
+        <a href="index.html">Dictionary</a>
+        |
+        <a href="cards.html">Tech Cards</a>
+        |
+        <a href="randomWords.html">Random Words</a>
+        |
+        <a href="quizPage.html">Quizzes</a>
+        |
+        <a href="about.html">About</a>
+        |
+        <a href="contact.html">Contact</a>
+        |
+        <a href="privacyPolicy.html">Privacy Policy</a>
+        </p>
+
+        <!-- Copyright section -->
+        <p> © 2021 All Right Reserved by Aleyna Eser </p>
+        </div>
+
+        </footer>
+
+        <script src="script-multiple-choice.js"></script>
+        
+    </body>
+    </html>
